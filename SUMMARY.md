@@ -10,6 +10,7 @@
 * [python第7课-初实海龟绘图](./sub/07.md)
 * [python第8课-画几何图形](./sub/08.md)
 * [python第9课-复杂图形的绘制](./sub/09.md)
-
-
+* [python第10课-分支结构](./sub/10.md)
+* [python第11课-分支结构应用](./sub/11.md)
+* [python第12课-GUI图形用户界面](./sub/12.md)
 
