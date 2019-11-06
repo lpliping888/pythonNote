@@ -13,4 +13,8 @@
 * [python第10课-分支结构](./sub/10.md)
 * [python第11课-分支结构应用](./sub/11.md)
 * [python第12课-GUI图形用户界面](./sub/12.md)
+* [python第13课-循环结构1](./sub/13.md)
+* [python第14课-循环结构2](./sub/14.md)
+* [python第15课-循环嵌套](./sub/15.md)
+* [python第16课-循环综合练习](./sub/16.md)
 
